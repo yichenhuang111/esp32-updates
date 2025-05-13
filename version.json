@@ -1,0 +1,4 @@
+{
+  "version": "v1.0",
+  "bin_url": "https://raw.githubusercontent.com/yourusername/esp32-ota-updates/main/firmware.bin"
+}
